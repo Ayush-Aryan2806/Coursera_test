@@ -59,6 +59,7 @@ h1{
 		position: relative;
 		float: left;
 		font-family: sans-serif;
+		border:  1px solid black;
 	}
 }
 
