@@ -1,0 +1,134 @@
+body{
+	width : 100%;
+	margin-left:  0px;
+	margin-right:  0px;
+
+}
+h1{
+	text-align: center;
+	font-family: serif;
+}
+@media(max-width: 768px){
+	.col-sm-1{
+		box-sizing: border-box;
+		background-color: pink;
+		padding: 0px;
+		width:  98%;
+		margin:  1%;
+		position: relative;
+		float:  left;
+		font-family: sans-serif;
+		height:  175px;
+		border:  1px solid black;
+	}
+}
+@media(max-width:  991px) and (min-width: 768px){
+	.col-md-1{
+		box-sizing: border-box;
+		background-color: pink;
+		padding:  0px;
+		width:  98%;
+		margin: 1%;
+		height: 250px ;
+		position: relative;
+		float: left;
+		font-family: sans-serif;
+		border:  1px solid black;
+	}
+	.col-md-2{
+		box-sizing: border-box;
+		background-color: pink;
+		padding:  0px;
+		width:  48%;
+		margin: 1%;
+		height: 250px ;
+		position: relative;
+		float: left;
+		font-family: sans-serif;
+		border:  1px solid black;
+	}
+}
+@media(min-width:  992px){
+	.col-lg-3{
+		box-sizing: border-box;
+		background-color: pink;
+		padding: 0px;
+		width:  31.3%;
+		margin:  1%;
+		height: 250px;
+		position: relative;
+		float: left;
+		font-family: sans-serif;
+	}
+}
+
+.p1{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	margin: 0%;
+	padding: 0px;
+	width: 25%;
+	text-align: center;
+	background-color: silver;
+	box-sizing: border-box;
+	color: darkgreen;
+
+}
+.p2{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	margin: 0%;
+	padding: 0px;
+	width: 25%;
+	text-align: center;
+	background-color: sandybrown;
+	box-sizing: border-box;
+	color: blue;
+}
+.p3{
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	margin: 0%;
+	padding: 0px;
+	width: 25%;
+	text-align: center;
+	background-color: gold;
+	box-sizing: border-box;
+	color: black;
+}
+.text1{
+	color: black;
+	font-family: serif;
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.text2{
+	color: dark green;
+	font-family: serif;
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.text3{
+	color:  maroon;
+	font-family: serif;
+	margin-top: 50px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
