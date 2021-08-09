@@ -18,7 +18,7 @@ h1{
 		position: relative;
 		float:  left;
 		font-family: sans-serif;
-		height:  175px;
+		height:  225px;
 		border:  1px solid black;
 	}
 }
@@ -117,7 +117,7 @@ h1{
 
 }
 .text2{
-	color: dark green;
+	color: red;
 	font-family: serif;
 	margin-top: 50px;
 	margin-left: 10px;
